@@ -1,1 +1,15 @@
-{ "hallo": "test" }
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "D449Z3WU8P.com.henry.FlightTracker" ],
+        "components": [
+          {
+            "/": "/auth*",
+            "comment": "Erlaubt der App, den /auth Link von Autorouter abzufangen"
+          }
+        ]
+      }
+    ]
+  }
+}
